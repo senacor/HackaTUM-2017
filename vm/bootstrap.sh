@@ -17,7 +17,7 @@ echo "CLONE: SenacorSlackDapp"
 echo "##################################################"
 mkdir repos
 cd repos
-git clone -b contract https://github.com/senacor/HackaTUM-2017.git
+git clone https://github.com/senacor/HackaTUM-2017.git -b contract
 
 echo "##################################################"
 echo "Make vagrant user owner of the repo"

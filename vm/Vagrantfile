@@ -19,7 +19,7 @@ Vagrant.configure("2") do |config|
   # boxes at https://atlas.hashicorp.com/search.
   # config.vm.box = "ethdev-test"
   config.vm.box = "dakami/ethdev"
-  config.vm.box_url = "https://www.dropbox.com/s/m838b7xllf0pvx8/ethdev_v0.0.3.box?dl=0"
+  config.vm.box_url = "https://dl.dropboxusercontent.com/s/m838b7xllf0pvx8/ethdev_v0.0.3.box?dl=0"
   
   # Install ethereum development stack
   config.vm.provision :shell, path: "bootstrap.sh"
