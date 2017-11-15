@@ -20,7 +20,7 @@
 7. run command (again): ```vagrant up```
 8. The machine will start up with GUI now.
 9. Log in with password ```vagrant```
-10. Get started with Ethereum, see [FirstStepsWithEthereum]()
+10. Get started with Ethereum, see [FirstStepsWithEthereum](https://github.com/senacor/HackaTUM-2017/blob/master/FirstStepsWithEthereum.md).
 
 ### Setup Troubleshooting
 
