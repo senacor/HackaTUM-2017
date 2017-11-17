@@ -1,6 +1,12 @@
 # HackaTUM-2017
 
-## Setup & Startup
+## The Challenge
+
+Please refer to the folder ```presentations``` for challenge details! Or ask Daniel or Tuan-Si :)
+
+## Virtual Machine Setup & Startup
+
+This is part of the workshop to get you going on Smart Contracts and Ethereum!
 
 ### Do the 3-step setup
 
